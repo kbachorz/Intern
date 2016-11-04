@@ -16,6 +16,16 @@
 
     <dependencies>
         <dependency>
+            <groupId>pl.kbachorz.kino</groupId>
+            <artifactId>kino-entities</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>pl.kbachorz.kino</groupId>
+            <artifactId>kino-services</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
             <version>6.0</version>
