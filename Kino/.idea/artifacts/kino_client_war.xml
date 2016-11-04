@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kino-client:war">
+    <output-path>$PROJECT_DIR$/kino-client/target</output-path>
+    <root id="archive" name="kino-client-1.0.0.war">
+      <element id="artifact" artifact-name="kino-client:war exploded" />
+    </root>
+  </artifact>
+</component>

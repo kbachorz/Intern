@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kino-client/kino-client.iml" filepath="$PROJECT_DIR$/kino-client/kino-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kino-dao/kino-dao.iml" filepath="$PROJECT_DIR$/kino-dao/kino-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kino-entities/kino-entities.iml" filepath="$PROJECT_DIR$/kino-entities/kino-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kino-parent.iml" filepath="$PROJECT_DIR$/kino-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kino-services/kino-services.iml" filepath="$PROJECT_DIR$/kino-services/kino-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kino-worker/kino-worker.iml" filepath="$PROJECT_DIR$/kino-worker/kino-worker.iml" />
+    </modules>
+  </component>
+</project>
